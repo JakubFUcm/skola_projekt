@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   postExposure:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 30
   contrast:
     m_OverrideState: 0
@@ -46,7 +46,7 @@ MonoBehaviour:
     m_Value: 4
   intensity:
     m_OverrideState: 1
-    m_Value: 0.413
+    m_Value: 0.167
   response:
     m_OverrideState: 0
     m_Value: 0.8
